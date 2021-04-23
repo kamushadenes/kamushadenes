@@ -1,7 +1,12 @@
 <h1 align="center">Henrique Gonçalves</h1>
 <h3 align="center">Security Specialist and Entrepreneur</h3>
-
+<h5 align="center">https://blog.hadenes.io</h5>
 <h4 align="center">Leadership | Security | Golang | Python | Clojure | Linux | AWS | GCP | Crypto </h4>
+<p align="center">
+<a href="https://twitter.com/kamushadenes" target="blank"><img align="center" src="https://camo.githubusercontent.com/4f6262140978dc16a5f7c031066e3d47df32f2dda9f37faba8c136bc27ed1669/68747470733a2f2f63646e312e69636f6e66696e6465722e636f6d2f646174612f69636f6e732f736f6369616c2d6d656469612d726f756e6465642d636f726e6572732f3531322f526f756e6465645f54776974746572355f7376672d3235362e706e67" alt="kamushadenes" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/kamushadenes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kamushadenes" height="30" width="30" /></a>
+<a href="https://medium.com/@kamushadenes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@kamushadenes" height="30" width="30" /></a>
+</p>
 
 <h3 align="center">Where I Have Worked</h3>
 <p align="center"> 
@@ -68,15 +73,7 @@
   <a href="https://jekyllrb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a>
 </p>
 
-I blog at [Endurance](https://blog.hadenes.io/)
-
 <h3 align="center">Support</h3>
 <p align="center">
   <a href="https://www.buymeacoffee.com/kamushadenes"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kamushadenes" /></a>
-</p>
-
-<p align="center">
-<a href="https://twitter.com/kamushadenes" target="blank"><img align="center" src="https://camo.githubusercontent.com/4f6262140978dc16a5f7c031066e3d47df32f2dda9f37faba8c136bc27ed1669/68747470733a2f2f63646e312e69636f6e66696e6465722e636f6d2f646174612f69636f6e732f736f6369616c2d6d656469612d726f756e6465642d636f726e6572732f3531322f526f756e6465645f54776974746572355f7376672d3235362e706e67" alt="kamushadenes" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/kamushadenes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kamushadenes" height="30" width="30" /></a>
-<a href="https://medium.com/@kamushadenes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@kamushadenes" height="30" width="30" /></a>
 </p>
