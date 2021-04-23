@@ -75,6 +75,11 @@
 [![Jekyll](http://img.shields.io/badge/-Jekyll-CC0000?style=flat-square&logo=jekyll&logoColor=ffffff)](https://jekyllrb.com/)
 [![GnuPG](http://img.shields.io/badge/-GnuPG-0093DD?style=flat-square&logo=gnu-privacy-guard&logoColor=ffffff)](https://gnupg.org/)
 
+**Operating Systems**
+[![NixOS](http://img.shields.io/badge/-NixOS-5277C3?style=flat-square&logo=nixos&logoColor=ffffff)](https://nixos.org/)
+[![Linux](http://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=ffffff)](https://www.linux.org/)
+[![macOS](http://img.shields.io/badge/-macOS-000000?style=flat-square&logo=macos&logoColor=ffffff)](https://www.apple.com/macos/)
+[![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows)
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/kamushadenes"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kamushadenes" /></a>
