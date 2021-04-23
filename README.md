@@ -146,7 +146,7 @@
 
 <h2 align="center">Noteworthy Public Projects</h2>
 
-**[SwayIT](https://github.com/kamushadenes/swayit) [![Golang](http://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=ffffff)](https://golang.org/)**
+**[SwayIT](https://github.com/kamushadenes/swayit) [![Golang](http://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=ffffff&label=SwayIT)](https://golang.org/)**
 
 A set of modules to provide at-glance information, focused on Sway and WayBar.
 
@@ -154,7 +154,7 @@ A set of modules to provide at-glance information, focused on Sway and WayBar.
 
 Generate, validate and send CEF events .
 
-**[bankscraper](https://github.com/kamushadenes/bankscraper) [![Python](http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)](https://www.python.org/) [Deprecated](https://img.shields.io/badge/-Deprecated-red)**
+**[bankscraper](https://github.com/kamushadenes/bankscraper) [![Python](http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)](https://www.python.org/) ![Deprecated](https://img.shields.io/badge/-Deprecated-red?style=for-the-badge)**
 
 Script suite to parse financial transactions from brazilian bank and benefit accounts, including support (when applicable) for interest fees and overdraft limits, besides account metadata and account holder information, when available. Now deprecated, please use https://quan.to.
 
