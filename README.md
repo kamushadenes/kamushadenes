@@ -143,3 +143,23 @@
 [![Fedora](http://img.shields.io/badge/-Fedora-294172?style=for-the-badge&logo=Fedora&logoColor=ffffff)](https://getfedora.org/)
 [![macOS](http://img.shields.io/badge/-macOS-000000?style=for-the-badge&logo=macos&logoColor=ffffff)](https://www.apple.com/macos/)
 [![Windows](http://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows)
+
+<h2 align="center">Noteworthy Public Projects</h2>
+
+**[SwayIT](https://github.com/kamushadenes/swayit) [![Golang](http://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=ffffff)](https://golang.org/)**
+
+A set of modules to provide at-glance information, focused on Sway and WayBar.
+
+**[cefevent](https://github.com/kamushadenes/cefevent) [![Python](http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)](https://www.python.org/)**
+
+Generate, validate and send CEF events .
+
+**[bankscraper](https://github.com/kamushadenes/bankscraper) [![Python](http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)](https://www.python.org/) [Deprecated](https://img.shields.io/badge/-Deprecated-red)**
+
+Script suite to parse financial transactions from brazilian bank and benefit accounts, including support (when applicable) for interest fees and overdraft limits, besides account metadata and account holder information, when available. Now deprecated, please use https://quan.to.
+
+
+**[isogo](https://github.com/kamushadenes/isogo) [![Golang](http://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=ffffff)](https://golang.org/)**
+
+An small utility to automate the download of OS ISO images for safekeeping on a server.
+
