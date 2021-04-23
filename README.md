@@ -103,11 +103,20 @@
 [![Selenium](http://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=ffffff)](https://www.selenium.dev/)
 [![Chef](http://img.shields.io/badge/-Chef-F09820?style=for-the-badge&logo=chef&logoColor=ffffff)](https://www.chef.io/)
 
+**Hardware and IoT**
+
+[![Arduino](http://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=ffffff)](https://www.arduino.cc/)
+[![Home Assistant](http://img.shields.io/badge/-Home%20Assistant-41BDF5?style=for-the-badge&logo=home-assistant&logoColor=ffffff)](https://www.home-assistant.io/)
+[![ESPHome](http://img.shields.io/badge/-ESPHome-000000?style=for-the-badge&logo=esphome&logoColor=ffffff)](https://esphome.io/)
+
 **CI/CD**
+
 [![Jenkins](http://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=ffffff)](https://www.jenkins.io/)
 [![GitHub Actions](http://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=ffffff)](https://github.com/features/actions)
 [![CircleCI](http://img.shields.io/badge/-CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=ffffff)](https://circleci.com/)
 [![TeamCity](http://img.shields.io/badge/-TeamCity-000000?style=for-the-badge&logo=teamcity&logoColor=ffffff)](https://www.jetbrains.com/teamcity/)
+[![Drone](http://img.shields.io/badge/-Drone-212121?style=for-the-badge&logo=drone&logoColor=ffffff)](https://www.drone.io/)
+[![Tekton](http://img.shields.io/badge/-Tekton-212121?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAFaUlEQVRYR51W2U4jVxClH5L/SB7zBSD2sImdAcQiQIAR8RBAiGDAIGMWwwABhBAwCAj7Jgxh2M06gADBD+Q1yn9k3BWdO11Xt9ttM4oly+67VJ2qOnWqtSjjMzQ0RPhLRP96PJ7veT3cr4azEQ61traSrutRU1NTOBr2IzcFAKIonfDz9dvb2yv3e3p6iNfVX5z/fXRUw8E2l0ucgWP1Ozs7awsCi2IDznHR4/FoAwMD1Ov1ar19fQTjAIU9n89na6Szo0OcY1ATExNaS0sLceQNDQ00NzcXNgsCuW9wUBjx9vSIZzjv6+vTvF4vDQwMmC7bpR5rv7W1iZTruv5lamrqO8650+mk+fl5YUO9y//Fhs/nExlA5FzXcM473W4aHRkR56xgEDlAzExPSzv19fW0uLgog7DeERHDWH9/P6HmeO4xIrcedrvdJh6MjY2FpPbXxkb6qNTcUVdHy0tLkUsAAH1G2pEREA4151vuri7pGBEiW6JjkHKDdCrbOe11dXUiIysrKzJQazvIjV6vV5jFhcHBQYm4q6tLGFGZDyPMcpX1zHak/Y/FRa2mtpbgPMSp0sImcnCrMYAut9vEcFP7Ga2mAlDZDuerNs7twMg1j8cjoh3+8EGQqLOzk0aNHsdzu8tFX4JBET07npmZEVn8xekUd5lw1dXVtLa2FlGEuDMkgO7ublHr4eFhDc651jA8Pj6usbqx89mZGc35/r0sEc6BcABbVVVFGxsbkkfhVNOEEGQbGR6Way6Xi+XZpGx2asdrXPOKigra3tqS7RhJ0uUe2mxkZCQkbaquNzY2iohRb6fT+VMwGPxLRL68bLpXXl5OOzs7IQKkpp21xASuw5DWcZseb2pq+jkYDN4yBxYWFrQ6h4OWFOeInDtkd3f32znAotPe3i6G0tj4uLzc3NxM09PTtsZqamqEw/X1dblfWlpK/t1d2/SrRmwzgHS0Gbo+OTkpz2OoBMF+ZdKh7qurqyZgJSUltOf3hzgPkWBDC8JqNOu6rusFH2dnj4BW1XW0GSIH0wG6rKxMPFud5+bmypJcBAKhwKzIVEIw4azzXdf1Ul3Xd61q6Pf7ZUD5eXlCxJC187MzsZ6WlibAfL69lUAikoRnOUdeW1sro4FhtBkMI+0wvL+/L57z4FzXo05PT7XMzEwKBAImP4mJifTw8CA7RAZtzQbUbcGY5W+9ohUVFtKfBwcanB8fH8sZk5GRIcAAMCKHnfj4eHp8fBRnwnIAB3moRHr3Y2AFBQVfFVHXo05OT4XxtPR0urq6Ej6Sk5Pp7u5O+ouJiaHXlxeplLYBOhwOWlleNhEHAhMMBs/8fn+OeglkQ/vCOdbTFed8jiOH85eXl8gl4FmOifYtGcjOzhaz4/z8XLNzDhCxsbEiS4icNcCWhIgc0mqdaCWGwMBYYWEhHRwcyPtZWVkE5xnp6UIvbm5u3lTBkGmIG7UOh0AJgamsrAx5zd7b2xN1y8vPlx3Bg+ji4kJLTU1FiaK43pHaPAQAFiCt7BxAtre3ZSRFRUWS0YJsJydyDz0OIIg8KSmJ7u/vw2ZABRVyCAsVlZW0ubkpe5wFpuDdOzr89Emso+ZnisBcX19LW3FxcT8+PT39zeSLlAXJRCYa0o7Id7a3BVGKi4uJBSY/P5+Ojo7EHQgMS2tKSgrdGj2ekJBAyM7j05PpRTQcCBMAjNItQ934AsgGQIeHh+w4MxAIBDg6ODeG1D8PDw8/8Hp0dDS9vr6+SUTTAX6JUJ2rTOfIAejy8lJTI0ePPz0+ypb9XwCsagR148h5j6VVrTn3+PPzsymj1rTbleHNFOXk5Mh24+kHpkNaWeNRc3ZuDeKtNvwPNPuAYYJanv4AAAAASUVORK5CYII=&logoColor=ffffff)](https://tekton.dev/)
 
 **Frameworks and Tools**
 
