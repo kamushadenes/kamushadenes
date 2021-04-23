@@ -74,6 +74,7 @@
 [![CockroachDB](http://img.shields.io/badge/-CockroachDB-6933FF?style=for-the-badge&logo=cockroach-labs&logoColor=ffffff)](https://www.cockroachlabs.com/)
 [![MySQL](http://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff)](https://www.mysql.com/)
 [![Redis](http://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=ffffff)](https://redis.io/)
+[![Vault](http://img.shields.io/badge/-Vault-000000?style=for-the-badge&logo=vault&logoColor=ffffff)](https://www.vaultproject.io/)
 
 **Observability**
 
@@ -85,6 +86,7 @@
 
 [![Docker](http://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 [![Kubernetes](http://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=ffffff)](https://kubernetes.io/)
+[![Consul](http://img.shields.io/badge/-Consul-CA2171?style=for-the-badge&logo=consul&logoColor=ffffff)](https://www.consul.io/)
 [![QEMU](http://img.shields.io/badge/-QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=ffffff)](https://www.qemu.org/)
 
 **Automation**
