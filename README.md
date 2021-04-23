@@ -10,6 +10,10 @@
   <a href="https://medium.com/@kamushadenes"><img alt="Medium" src="http://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=ffffff" /></a>
 </p>
 
+<p align="center">
+  <a href="https://www.buymeacoffee.com/kamushadenes"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="25" width="105" alt="kamushadenes" /></a>
+</p>
+
 <h2 align="center">About Me</h2>
 
 **Work**
@@ -139,9 +143,3 @@
 [![Fedora](http://img.shields.io/badge/-Fedora-294172?style=for-the-badge&logo=Fedora&logoColor=ffffff)](https://getfedora.org/)
 [![macOS](http://img.shields.io/badge/-macOS-000000?style=for-the-badge&logo=macos&logoColor=ffffff)](https://www.apple.com/macos/)
 [![Windows](http://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows)
-
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/kamushadenes"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kamushadenes" /></a>
-</p>
-
