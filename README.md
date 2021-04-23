@@ -4,11 +4,11 @@
 <h5 align="center">Leadership | Security | DevOps | Programming | Networking | Cloud | Crypto</h5>
 <h5 align="center">https://blog.hadenes.io</h5>
 
-**Social**
-
-[![Twitter](http://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/kamushadenes)
-[![LinkedIn](http://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/kamushadenes)
-[![Medium](http://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=ffffff)](https://medium.com/@kamushadenes)
+<p align="center">
+  <a href="https://twitter.com/kamushadenes"><img alt="Twitter" src="http://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=ffffff" /></a>
+  <a href="https://www.linkedin.com/in/kamushadenes"><img alt="LinkedIn" src="http://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff" /></a>
+  <a href="https://medium.com/@kamushadenes"><img alt="Medium" src="http://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=ffffff" /></a>
+</p>
 
 **Hobbies and Passions**
 
