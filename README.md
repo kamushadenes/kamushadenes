@@ -12,7 +12,7 @@
 
 <h2 align="center">About Me</h2>
 
-<h4 align="center">Hobbies and Passions</h4>
+**Hobbies and Passions**
 
 [![Star Trek](http://img.shields.io/badge/-Star%20Trek-FFE200?style=for-the-badge&logo=star-trek&logoColor=ffffff)](https://intl.startrek.com/)
 [![Tolkien](http://img.shields.io/badge/-Tolkien-000000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAACnVBMVEUAAAD////+///////////////////////////////////////////////////////////////////////////////+///////////////////////////+///+///////////////////+///+///////////////////////////////////+///////////////////////////////////////////////////////////////+///////////////////////////////////+///////////////////////////////////////+///////////////////////////////////////////+///+///////////////////////////+///+///////////////////////////////////+///////////+///+///+///////////////+///+///////+///+///////////////////+///+///////+///////////+///////////+///////////+///+///////////////////////////////////////////+///////////+///+///////////////////////+///////+///////+///////////+///////+///////+///+///////////+///////////////+///////////+///////////////+///////////////+///+///+///////+///+///+///+///+///////+///+///+///+///+///////////+///+///+///+///+///+///////////+///+///+///+///+///+//////9A0uhgAAAA3nRSTlMAAAACBAEcSSRdbhEzSgslOmFERggdIBouDxI4Y3dIP3NiGEtyDSlFBiJ1W1MLN0xaBxlkWHk9AztQWXRncDIUS0AVJglIPVZxGzQMLCAqHl1XcGAKLRYTDlUXGhwnMWsQZk8fCQVqbyhUbV45ASswaW86aEI2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&logoColor=ffffff)](https://www.tolkien.co.uk/)
@@ -21,7 +21,7 @@
 [![Interstellar](http://img.shields.io/badge/-Interstellar-FFFFFF?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADJElEQVRYR61XO2waQRC9A0RQEF1SpsoZ5BRIkShoUjgdHWXsnoISiRIqKJFIR0EfpwudU8VFGgokJFI4GJQmZdLacWxgol3vrudmZ5ezFFfc3ex83rx5sw6DhH9hEAQQtyWPgTB59F/SQyIYtcXv9n23EtMFxZzqB1Sa/snZexMQB8JUCna7nQhuxcGOWdgw5Oo3rdKXgPkmzn5fLt+USqWvOhD1LdPjGgr3r0P0HTAU8FCZjw/iTEgNcDJe4vR6vV/dbvc5NmIQ2ccHtkirN4PB4EO73T4hiNAK8DMuzICDEaP9r1arMJ1ODScwOXQVXDVwcXHx7NXh4W8EuwGFJvzl/Pz126OjuQrO+tOJ4UyAOGd7x0yKMxEUxPgW51PpNGy3W+kK+7M0oVQswvLy0mpVUrUJgwDeHR8HH09PYyTEHDJZqGZyguKMx00PNV6tVk+KBwd/xXsuBh4xfdYnPtJmOBx+arVadQ5BmpRAQbWW1R5OoTgy4jGipHK2kuiHaIOFsNX3Wq0Gn8/OnMKhkDQj12w2YTQa6SS8LURouIh7/154/3Nz8zKXy/1wEEBOiEhG4YoF0vjYsz1jdi4ucO81n5h1YXxKG2VgJYeKikk7LdYHJ+aJgEL3l/IBf7PajZJ8gJ7AZh0ql8uwWCxiQXUC/X6/1el03jv2BtsaK0Cj0YDxeMxli8cU677MWYwaRzIC6/4pULCwI6OcGSeFQgGiKArm87lXUX0+LR3IZDJwt9kkGSu6FV2oyYRF674tFhIp2iL8/F+k2LewtI7Q0WAD5/N5uL66srLmtMGxF4z8Mt/NbYuSyzz7rlK4R2xCYQgAcsyxbsgH0ebNZhNbx1Rc6EF2P+jARJHw8pGfUCGWn5jSZbNZuLu9pXvAtIfucbVcaB6xSyy++QhHk8nkRb1e/4kPGQSZVWpuyzg4A6vzUkoJicmXhPHUxggl0nms+1xh+zZknEIONusgsiDmZsO2iSMnJa9TchHk8sxsNntaqVSuUYJO2KMogvV6HaZTKdgy/5qxQsT1Bi0mDkZnApojScbYt3QsBEl7zC5Xho/ypZ3/A3XpXy0zd9CDAAAAAElFTkSuQmCC&logoColor=ffffff)](https://www.warnerbros.co.uk/movies/interstellar)
 [![Arduino](http://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=ffffff)](https://www.arduino.cc/)
 
-<h4 align="center">Games</h4>
+**Games**
 
 [![Steam](http://img.shields.io/badge/-Steam-000000?style=for-the-badge&logo=steam&logoColor=ffffff)](https://store.steampowered.com/)
 [![Xbox](http://img.shields.io/badge/-Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=ffffff)](https://www.xbox.com/)
@@ -34,7 +34,7 @@
 [![Age of Mythology](http://img.shields.io/badge/-Age%20of%20Mythology-8D0B07?style=for-the-badge&logo=data:image/png;base64,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&logoColor=ffffff)](https://www.ageofempires.com/games/aom/)
 [![Age of Empires](http://img.shields.io/badge/-Age%20of%20Empires-C7A064?style=for-the-badge&logo=data:image/png;base64,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&logoColor=ffffff)](https://www.ageofempires.com/)
 
-<h4 align="center">Work</h4>
+**Work**
 
 [![Nubank](http://img.shields.io/badge/-Nubank-8A05BE?style=for-the-badge&logo=nubank&logoColor=ffffff)](https://nubank.com.br)
 [![Quanto](http://img.shields.io/badge/-Quanto-4563D9?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC8AAAAvCAYAAABzJ5OsAAAABmJLR0QA/wD/AP+gvaeTAAACBklEQVRoge2aMWtTYRhGz5shdRAURRL9Ef4EQRTUzUIdHAX/QAfRzbFQXJwcHF0chFrUQZc66K6Cv0CxzWahLY2lHoebDEJjvi/e3HyBPvPzknPu+yW5lwQyol5yetlUV9WFVJ5WDvyU0wXuAevqiZSBkuCHuQa8TBEoER4SBUqFhwSBkuFhjEDp8PAPgXmAhxEC8wIPRwjMEzxUAmtDgXmDB7gOvFDboV4BInHwLHC3ZphTwEUg+bZgkBXUg4z7j/c1gwOgdtSNzHuhb0Ucm4joAbeBfsZYtwh4gIjYAr7mzBQDP8hOTrk0+Kwcw88qx/CzyjH8rFIa/GFOuTT4Xk65NPgfOeXS4D/mlEuDfwvsp5aLgo+IXeBZar8o+EEeArspxeLgI2ITWE7pFgcPEBFPgcfjernwJyfDmSjLwAPg98hG5gP4vtptDL/iu6p+PoLlAPV75lP7htppWKClLqnP1e0hfKgrVOvJSR/4AmwndHvAFvABeBcRe5mv9VfUFtABzqO21deZV3/S7KlPrPPoqQsNCqjuqHfqFnjToIDqozoF2up6wwL36xRoegOH6uU6BZrewCerT5HaBJrewGIu40jbiOgDi8Cr/7kIGVnKHRj7o4LVfwHWgBuTEGXkJ3AmIkwdGHvOBhu4yfQ3cBo4lzOQ9CaJiF/ALWCV6qt+WrmQU/4D+wfyVsMgNoUAAAAASUVORK5CYII=&logoColor=ffffff)](https://quan.to)
@@ -44,7 +44,7 @@
 
 <h2 align="center">Skills</h2>
 
-<h4 align="center">Languages</h4>
+**Languages**
 
 [![Golang](http://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=ffffff)](https://golang.org/)
 [![Python](http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)](https://www.python.org/)
@@ -54,37 +54,37 @@
 [![C](http://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=ffffff)](https://www.cprogramming.com/)
 [![Bash](http://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=ffffff)](https://www.gnu.org/software/bash/)
 
-<h4 align="center">Clouds</h4>
+**Clouds**
 
 [![AWS](http://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=ffffff)](https://aws.amazon.com/)
 [![GCP](http://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=ffffff)](https://cloud.google.com/)
 
-<h4 align="center">Data</h4>
+**Data**
 
 [![PostgreSQL](http://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=ffffff)](https://www.postgresql.org/)
 [![CockroachDB](http://img.shields.io/badge/-CockroachDB-6933FF?style=for-the-badge&logo=cockroach-labs&logoColor=ffffff)](https://www.cockroachlabs.com/)
 [![MySQL](http://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff)](https://www.mysql.com/)
 [![Redis](http://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=ffffff)](https://redis.io/)
 
-<h4 align="center">Observability</h4>
+**Observability**
 
 [![Elastic](http://img.shields.io/badge/-Elastic-005571?style=for-the-badge&logo=elastic&logoColor=ffffff)](https://www.elastic.co/)
 [![Grafana](http://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=ffffff)](https://grafana.com/)
 [![Prometheus](http://img.shields.io/badge/-Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=ffffff)](https://prometheus.io/)
 
-<h4 align="center">Container and Orchestration</h4>
+**Virtualization, Containers and Orchestration**
 
 [![Docker](http://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 [![Kubernetes](http://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=ffffff)](https://kubernetes.io/)
 [![QEMU](http://img.shields.io/badge/-QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=ffffff)](https://www.qemu.org/)
 
-<h4 align="center">Automation</h4>
+**Automation**
 
 [![Ansible](http://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=ffffff)](https://www.ansible.com/)
 [![Selenium](http://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=ffffff)](https://www.selenium.dev/)
 [![Chef](http://img.shields.io/badge/-Chef-F09820?style=for-the-badge&logo=chef&logoColor=ffffff)](https://www.chef.io/)
 
-<h4 align="center">Frameworks and Tools</h4>
+**Frameworks and Tools**
 
 [![GraphQL](http://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=ffffff)](https://graphql.org/)
 [![Django](http://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=ffffff)](https://www.djangoproject.com/)
@@ -93,7 +93,7 @@
 [![Jekyll](http://img.shields.io/badge/-Jekyll-CC0000?style=for-the-badge&logo=jekyll&logoColor=ffffff)](https://jekyllrb.com/)
 [![GnuPG](http://img.shields.io/badge/-GnuPG-0093DD?style=for-the-badge&logo=gnu-privacy-guard&logoColor=ffffff)](https://gnupg.org/)
 
-<h4 align="center">Operating Systems</h4>
+**Operating Systems**
 
 [![NixOS](http://img.shields.io/badge/-NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=ffffff)](https://nixos.org/)
 [![Linux](http://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=ffffff)](https://www.linux.org/)
