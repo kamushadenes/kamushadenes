@@ -21,7 +21,6 @@
 [![Pagar.me](http://img.shields.io/badge/-Pagar.me-8CB943?style=for-the-badge&logo=data:image/png;base64,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&logoColor=ffffff)](https://pagar.me)
 [![HPE](http://img.shields.io/badge/-HPE-01A982?style=for-the-badge&logo=data:image/png;base64,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&logoColor=ffffff)](https://hpe.com)
 
-
 **Hobbies and Passions**
 
 [![Star Trek](http://img.shields.io/badge/-Star%20Trek-FFE200?style=for-the-badge&logo=star-trek&logoColor=ffffff)](https://intl.startrek.com/)
@@ -63,10 +62,18 @@
 [![VSCode](http://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 [![Emacs](http://img.shields.io/badge/-Emacs-7F5AB6?style=for-the-badge&logo=gnu-emacs&logoColor=ffffff)](https://www.gnu.org/software/emacs/)
 
-**Clouds**
+**Cloud Providers**
 
 [![AWS](http://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=ffffff)](https://aws.amazon.com/)
 [![GCP](http://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=ffffff)](https://cloud.google.com/)
+[![Azure](http://img.shields.io/badge/-Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=ffffff)](https://azure.microsoft.com/)
+[![Cloudflare](http://img.shields.io/badge/-Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=ffffff)](https://www.cloudflare.com/)
+
+**Networking**
+
+[![Ubiquiti](http://img.shields.io/badge/-Ubiquiti-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=ffffff)](https://www.ui.com/)
+[![pfSense](http://img.shields.io/badge/-pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=ffffff)](https://www.pfsense.org/)
+[![OpenVPN](http://img.shields.io/badge/-OpenVPN-EA7E20?style=for-the-badge&logo=openvpn&logoColor=ffffff)](https://openvpn.net/)
 
 **Data**
 
@@ -87,6 +94,7 @@
 [![Docker](http://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 [![Kubernetes](http://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=ffffff)](https://kubernetes.io/)
 [![Consul](http://img.shields.io/badge/-Consul-CA2171?style=for-the-badge&logo=consul&logoColor=ffffff)](https://www.consul.io/)
+[![Rancher](http://img.shields.io/badge/-Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=ffffff)](https://rancher.com/)
 [![QEMU](http://img.shields.io/badge/-QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=ffffff)](https://www.qemu.org/)
 
 **Automation**
@@ -94,6 +102,12 @@
 [![Ansible](http://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=ffffff)](https://www.ansible.com/)
 [![Selenium](http://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=ffffff)](https://www.selenium.dev/)
 [![Chef](http://img.shields.io/badge/-Chef-F09820?style=for-the-badge&logo=chef&logoColor=ffffff)](https://www.chef.io/)
+
+**CI/CD**
+[![Jenkins](http://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=ffffff)](https://www.jenkins.io/)
+[![GitHub Actions](http://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=ffffff)](https://github.com/features/actions)
+[![CircleCI](http://img.shields.io/badge/-CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=ffffff)](https://circleci.com/)
+[![TeamCity](http://img.shields.io/badge/-TeamCity-000000?style=for-the-badge&logo=teamcity&logoColor=ffffff)](https://www.jetbrains.com/teamcity/)
 
 **Frameworks and Tools**
 
@@ -104,12 +118,19 @@
 [![Jekyll](http://img.shields.io/badge/-Jekyll-CC0000?style=for-the-badge&logo=jekyll&logoColor=ffffff)](https://jekyllrb.com/)
 [![GnuPG](http://img.shields.io/badge/-GnuPG-0093DD?style=for-the-badge&logo=gnu-privacy-guard&logoColor=ffffff)](https://gnupg.org/)
 
-**Operating Systems**
+**Operating Systems and Distros**
 
 [![NixOS](http://img.shields.io/badge/-NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=ffffff)](https://nixos.org/)
 [![Linux](http://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=ffffff)](https://www.linux.org/)
+[![Arch](http://img.shields.io/badge/-Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=ffffff)](https://archlinux.org/)
+[![Gentoo](http://img.shields.io/badge/-Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=ffffff)](https://www.gentoo.org/)
+[![Ubuntu](http://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com/)
+[![Debian](http://img.shields.io/badge/-Debian-A81D33?style=for-the-badge&logo=debian&logoColor=ffffff)](https://www.debian.org/)
+[![CentOS](http://img.shields.io/badge/-CentOS-262577?style=for-the-badge&logo=centos&logoColor=ffffff)](https://www.centos.org/)
+[![Fedora](http://img.shields.io/badge/-Fedora-294172?style=for-the-badge&logo=Fedora&logoColor=ffffff)](https://getfedora.org/)
 [![macOS](http://img.shields.io/badge/-macOS-000000?style=for-the-badge&logo=macos&logoColor=ffffff)](https://www.apple.com/macos/)
 [![Windows](http://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows)
+
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/kamushadenes"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kamushadenes" /></a>
