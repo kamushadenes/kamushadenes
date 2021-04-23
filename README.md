@@ -1,12 +1,7 @@
 <h1 align="center">Henrique Gonçalves</h1>
 <h3 align="center">Security Specialist and Entrepreneur</h3>
 <h5 align="center">https://blog.hadenes.io</h5>
-<h4 align="center">Leadership | Security | Golang | Python | Clojure | Linux | AWS | GCP | Crypto </h4>
-
-**Work**
-
-![Nubank](http://img.shields.io/badge/-Nubank-8A05BE?style=flat-square&logo=nubank&logoColor=ffffff)
-![Upwork](http://img.shields.io/badge/-Upwork-6FDA44?style=flat-square&logo=upwork&logoColor=ffffff)
+<h4 align="center">Leadership | Security | DevOps | Programming | Networking | Cloud | Crypto</h4>
 
 **Social**
 
@@ -14,6 +9,10 @@
 ![LinkedIn](http://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=ffffff)
 ![Medium](http://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=ffffff)
 
+**Work**
+
+![Nubank](http://img.shields.io/badge/-Nubank-8A05BE?style=flat-square&logo=nubank&logoColor=ffffff)
+![Upwork](http://img.shields.io/badge/-Upwork-6FDA44?style=flat-square&logo=upwork&logoColor=ffffff)
 
 **Languages**
 
