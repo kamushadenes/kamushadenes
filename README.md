@@ -18,6 +18,12 @@
 
 <h2 align="center">About Me</h2>
 
+Security Specialist with more than 8 years of deep technical and management experience developing, implementing and supporting complex infrastructures and high performance teams for fast growing startups mainly in the Banking industry.
+
+Hobbies and passions include hacking in general, DIY, 3D printing, drones, electronics and acting. 
+
+<h2 align="center">Work and Life</h2>
+
 **Work**
 
 [![Nubank](http://img.shields.io/badge/-Nubank-8A05BE?style=for-the-badge&logo=nubank&logoColor=ffffff)](https://nubank.com.br)
