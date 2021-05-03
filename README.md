@@ -5,9 +5,10 @@
 <h5 align="center">https://blog.hadenes.io</h5>
 
 <p align="center">
-  <a href="https://twitter.com/kamushadenes"><img alt="Twitter" src="http://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=ffffff" /></a>
+  <a href="https://github.com/kamushadenes"><img alt="GitHub" src="http://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=ffffff" /></a>
   <a href="https://www.linkedin.com/in/kamushadenes"><img alt="LinkedIn" src="http://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff" /></a>
   <a href="https://medium.com/@kamushadenes"><img alt="Medium" src="http://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=ffffff" /></a>
+  <a href="https://twitter.com/kamushadenes"><img alt="Twitter" src="http://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=ffffff" /></a>
 </p>
 
 <p align="center">
