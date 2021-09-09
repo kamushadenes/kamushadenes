@@ -96,6 +96,7 @@ Hobbies and passions include hacking in general, DIY, 3D printing, drones, elect
 [![Vault](http://img.shields.io/badge/-Vault-000000?style=for-the-badge&logo=vault&logoColor=ffffff)](https://www.vaultproject.io/)
 
 **Data**
+
 [![Apache Airflow](http://img.shields.io/badge/-Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=ffffff)](https://airflow.apache.org/)
 [![BigQuery](http://img.shields.io/badge/-BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=ffffff)](https://cloud.google.com/bigquery)
 
