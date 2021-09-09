@@ -87,13 +87,17 @@ Hobbies and passions include hacking in general, DIY, 3D printing, drones, elect
 [![pfSense](http://img.shields.io/badge/-pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=ffffff)](https://www.pfsense.org/)
 [![OpenVPN](http://img.shields.io/badge/-OpenVPN-EA7E20?style=for-the-badge&logo=openvpn&logoColor=ffffff)](https://openvpn.net/)
 
-**Data**
+**Databases**
 
 [![PostgreSQL](http://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=ffffff)](https://www.postgresql.org/)
 [![CockroachDB](http://img.shields.io/badge/-CockroachDB-6933FF?style=for-the-badge&logo=cockroach-labs&logoColor=ffffff)](https://www.cockroachlabs.com/)
 [![MySQL](http://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff)](https://www.mysql.com/)
 [![Redis](http://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=ffffff)](https://redis.io/)
 [![Vault](http://img.shields.io/badge/-Vault-000000?style=for-the-badge&logo=vault&logoColor=ffffff)](https://www.vaultproject.io/)
+
+**Data**
+[![Apache Airflow](http://img.shields.io/badge/-Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=ffffff)](https://airflow.apache.org/)
+[![BigQuery](http://img.shields.io/badge/-BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=ffffff)](https://cloud.google.com/bigquery)
 
 **Observability**
 
