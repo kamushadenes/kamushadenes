@@ -18,9 +18,11 @@
 
 <h2 align="center">About Me</h2>
 
-Security Specialist with more than 8 years of deep technical and management experience developing, implementing and supporting complex infrastructures and high performance teams for fast growing startups mainly in the Banking industry.
+Security Specialist with over a decade of deep technical and management experience developing, implementing, and supporting complex infrastructures and high-performance teams for fast-growing startups, mainly in the financial services industry.
 
-Hobbies and passions include hacking in general, DIY, 3D printing, drones, electronics and acting. 
+Currently leading the Supply Chain Security, Cloud Security and Application Security teams at Nubank, spearheading topics such as supply chain security, cloud visibility, cloud hardening, secret management, SAST, SCA, SSDLC, policy management and enforcement etc, alongside infosec-focused M&A.
+
+Hobbies and passions include hacking in general, DIY, 3D printing, drones, electronics, and acting.
 
 <h2 align="center">Work and Life</h2>
 
@@ -162,13 +164,19 @@ Hobbies and passions include hacking in general, DIY, 3D printing, drones, elect
 
 <h2 align="center">Noteworthy Public Projects</h2>
 
+
+**[![Golang](http://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=ffffff&label=APKrash)](https://github.com/kamushadenes/apkrash)**
+
+Android APK security analysis toolkit.
+
+
 **[![Golang](http://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=ffffff&label=SwayIT)](https://github.com/kamushadenes/swayit)**
 
 A set of modules to provide at-glance information, focused on Sway and WayBar.
 
 **[![Python](http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff&label=cefevent)](https://github.com/kamushadenes/cefevent)**
 
-Generate, validate and send CEF events .
+Generate, validate and send CEF events.
 
 **[![Python](http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff&label=bankscraper)](https://github.com/kamushadenes/bankscraper) ![Deprecated](https://img.shields.io/badge/-Deprecated-red?style=for-the-badge)**
 
