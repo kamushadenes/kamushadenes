@@ -45,6 +45,7 @@ Hobbies and passions include hacking in general, DIY, 3D printing, drones, elect
 [![Arduino](http://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=ffffff)](https://www.arduino.cc/)
 
 **Game Platforms**
+
 [![Steam](http://img.shields.io/badge/-Steam-000000?style=for-the-badge&logo=steam&logoColor=ffffff)](https://store.steampowered.com/)
 [![Xbox](http://img.shields.io/badge/-Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=ffffff)](https://www.xbox.com/)
 [![Playstation](http://img.shields.io/badge/-Playstation-003791?style=for-the-badge&logo=playstation&logoColor=ffffff)](https://www.playstation.com/)
