@@ -1,6 +1,7 @@
 <h1 align="center">Henrique Gonçalves</h1>
-<h3 align="center">Head of Defensive Security @ Nubank | Security Specialist and Entrepreneur</h3>
+<h3 align="center">Security Specialist and Entrepreneur</h3>
 
+<h5 align="center">Head of Defensive Security @ Nubank</h5>
 <h5 align="center">Leadership | Security | DevOps | Programming | Networking | Cloud | Crypto</h5>
 <h5 align="center">https://blog.hadenes.io</h5>
 
