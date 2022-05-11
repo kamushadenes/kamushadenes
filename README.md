@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/kamushadenes"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="25" width="105" alt="kamushadenes" /></a>
+  <a href="https://www.buymeacoffee.com/kamushadenes"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="32" alt="kamushadenes" /></a>
 </p>
 
 <h2 align="center">About Me</h2>
