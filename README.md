@@ -1,5 +1,5 @@
 <h1 align="center">Henrique Gonçalves</h1>
-<h3 align="center">Security Specialist and Entrepreneur</h3>
+<h3 align="center">Head of Defensive Security @ Nubank | Security Specialist and Entrepreneur</h3>
 
 <h5 align="center">Leadership | Security | DevOps | Programming | Networking | Cloud | Crypto</h5>
 <h5 align="center">https://blog.hadenes.io</h5>
@@ -20,7 +20,7 @@
 
 Security Specialist with over a decade of deep technical and management experience developing, implementing, and supporting complex infrastructures and high-performance teams for fast-growing startups, mainly in the financial services industry.
 
-Currently leading the Supply Chain Security, Cloud Security and Application Security teams at Nubank, spearheading topics such as supply chain security, cloud visibility, cloud hardening, secret management, SAST, SCA, SSDLC, policy management and enforcement etc, alongside infosec-focused M&A.
+Currently Head of the Defensive Alliance at Nubank, spearheading topics such as supply chain security, cloud visibility, cloud hardening, secret management, SAST, SCA, SSDLC, DLP, SOX, Zero Trust, BYOD, policy management and enforcement etc, alongside infosec-focused M&A.
 
 Hobbies and passions include hacking in general, DIY, 3D printing, drones, electronics, and acting.
 
