@@ -1,7 +1,6 @@
 <h1 align="center">Henrique Gonçalves</h1>
 <h3 align="center">Security Specialist and Entrepreneur</h3>
 
-<h5 align="center">Global Head of Defensive Security @ Nubank</h5>
 <h5 align="center">Leadership | Security | DevOps | Programming | Networking | Cloud | Crypto</h5>
 <h5 align="center">https://blog.hadenes.io</h5>
 
@@ -19,11 +18,15 @@
 
 <h2 align="center">About Me</h2>
 
-Security Specialist with over a decade of deep technical and management experience developing, implementing, and supporting complex infrastructures and high-performance teams for fast-growing startups, mainly in the financial services industry.
+Hello and welcome!
 
-Currently Head of the Defensive Alliance at Nubank, spearheading topics such as supply chain security, cloud visibility, cloud hardening, secret management, SAST, SCA, SSDLC, DLP, SOX, Zero Trust, BYOD, policy management and enforcement etc, alongside infosec-focused M&A.
+My name is Henrique, and I'm an experienced security professional with expertise in risk assessment and management, security engineering, pentesting, reversing, incident response, and compliance. I've developed and implemented complex infrastructures for fast-growing startups in the financial services industry, and have a proven track record of delivering results.
 
-Hobbies and passions include hacking in general, DIY, 3D printing, drones, electronics, and acting.
+In addition to my security expertise, I'm proficient in programming languages such as Python, Golang, Clojure, and Rust, and have a demonstrated ability to develop and maintain large-scale software systems. I'm passionate about staying up-to-date on the latest threats and techniques in the industry, and enjoy pursuing DIY projects related to electronics and programming.
+
+If you're looking for a security professional with both technical and management skills, I have a wealth of experience leading and managing cross-functional teams of over 30 professionals.
+
+Thank you for stopping by, and I look forward to connecting with you!
 
 <h2 align="center">Work and Life</h2>
 
