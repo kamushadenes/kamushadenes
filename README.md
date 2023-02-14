@@ -12,10 +12,6 @@
   <a href="https://keybase.io/kamushadenes"><img alt="Keybase" src="http://img.shields.io/badge/-Keybase-33A0FF?style=for-the-badge&logo=keybase&logoColor=ffffff" /></a>
 </p>
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/kamushadenes"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="32" alt="kamushadenes" /></a>
-</p>
-
 <h2 align="center">About Me</h2>
 
 Hello and welcome!
