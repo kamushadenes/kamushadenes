@@ -26,32 +26,32 @@ Thank you for stopping by, and I look forward to connecting with you!
 
 <h2 align="center">Noteworthy Public Projects</h2>
 
-[![Golang](http://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=ffffff&label=Chloe)](https://github.com/kamushadenes/chloe)**
+[![Golang](http://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=ffffff&label=Chloe)](https://github.com/kamushadenes/chloe)
 
 Chloe is a powerful AI Assistant written in Go that leverages OpenAI technologies (ChatGPT, Whisper, and DALL-E) along with Google's Text-to-Speech engine to provide versatile and comprehensive assistance.
 
 It offers multiple interfaces and utilizes the Chain of Thought approach to understand and respond to complex instructions.
 
 
-[![Golang](http://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=ffffff&label=APKrash)](https://github.com/kamushadenes/apkrash)**
+[![Golang](http://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=ffffff&label=APKrash)](https://github.com/kamushadenes/apkrash)
 
 Android APK security analysis toolkit.
 
 
-[![Golang](http://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=ffffff&label=SwayIT)](https://github.com/kamushadenes/swayit)**
+[![Golang](http://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=ffffff&label=SwayIT)](https://github.com/kamushadenes/swayit)
 
 A set of modules to provide at-glance information, focused on Sway and WayBar.
 
-[![Python](http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff&label=cefevent)](https://github.com/kamushadenes/cefevent)**
+[![Python](http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff&label=cefevent)](https://github.com/kamushadenes/cefevent)
 
 Generate, validate and send CEF events.
 
-[![Python](http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff&label=bankscraper)](https://github.com/kamushadenes/bankscraper) ![Deprecated](https://img.shields.io/badge/-Deprecated-red?style=for-the-badge)**
+[![Python](http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff&label=bankscraper)](https://github.com/kamushadenes/bankscraper) ![Deprecated](https://img.shields.io/badge/-Deprecated-red?style=for-the-badge)
 
 Script suite to parse financial transactions from brazilian bank and benefit accounts, including support (when applicable) for interest fees and overdraft limits, besides account metadata and account holder information, when available. Now deprecated, please use https://quan.to.
 
 
-[![Golang](http://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=ffffff&label=isogo)](https://github.com/kamushadenes/isogo)**
+[![Golang](http://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=ffffff&label=isogo)](https://github.com/kamushadenes/isogo)
 
 An small utility to automate the download of OS ISO images for safekeeping on a server.
 
