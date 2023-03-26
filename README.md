@@ -201,3 +201,7 @@ An small utility to automate the download of OS ISO images for safekeeping on a 
 [![Fedora](https://img.shields.io/badge/-Fedora-294172?style=for-the-badge&logo=Fedora&logoColor=ffffff)](https://getfedora.org/)
 [![macOS](https://img.shields.io/badge/-macOS-000000?style=for-the-badge&logo=macos&logoColor=ffffff)](https://www.apple.com/macos/)
 [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows)
+
+<h2 align="center">Stats</h2>
+
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
