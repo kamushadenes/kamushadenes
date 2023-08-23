@@ -1,4 +1,4 @@
-<h1 align="center">Henrique Gonçalves</h1>
+<h1 align="center">Henrique Espíndola</h1>
 <h3 align="center">Security Specialist and Entrepreneur</h3>
 
 <h4 align="center">Co-Founder and CTO @ STellar Entropy</h4>
