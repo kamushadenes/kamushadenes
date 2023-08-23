@@ -7,9 +7,6 @@
 <p align="center">
   <a href="https://github.com/kamushadenes"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=ffffff" /></a>
   <a href="https://www.linkedin.com/in/kamushadenes"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff" /></a>
-  <a href="https://medium.com/@kamushadenes"><img alt="Medium" src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=ffffff" /></a>
-  <a href="https://twitter.com/kamushadenes"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=ffffff" /></a>
-  <a href="https://keybase.io/kamushadenes"><img alt="Keybase" src="https://img.shields.io/badge/-Keybase-33A0FF?style=for-the-badge&logo=keybase&logoColor=ffffff" /></a>
 </p>
 
 <h2 align="center">About Me</h2>
