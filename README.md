@@ -33,28 +33,24 @@ Chloe is a powerful AI Assistant written in Go that leverages OpenAI technologie
 It offers multiple interfaces and utilizes the Chain of Thought approach to understand and respond to complex instructions.
 
 
+[![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=ffffff&label=cloud-verify)](https://github.com/kamushadenes/cloud-verify)
+
+Cryptographically attest if your Go application is being executed within a cloud environment.
+
+
 [![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=ffffff&label=APKrash)](https://github.com/kamushadenes/apkrash)
 
-Android APK security analysis toolkit.
+APKrash is an Android APK security analysis toolkit focused on comparing APKs to detect tampering and repackaging.
 
-
-[![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=ffffff&label=SwayIT)](https://github.com/kamushadenes/swayit)
-
-A set of modules to provide at-glance information, focused on Sway and WayBar.
 
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff&label=cefevent)](https://github.com/kamushadenes/cefevent)
 
 Generate, validate and send CEF events.
 
+
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff&label=bankscraper)](https://github.com/kamushadenes/bankscraper) ![Deprecated](https://img.shields.io/badge/-Deprecated-red?style=for-the-badge)
 
 Script suite to parse financial transactions from brazilian bank and benefit accounts, including support (when applicable) for interest fees and overdraft limits, besides account metadata and account holder information, when available. Now deprecated, please use https://quan.to.
-
-
-[![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=ffffff&label=isogo)](https://github.com/kamushadenes/isogo)
-
-An small utility to automate the download of OS ISO images for safekeeping on a server.
-
 
 
 <h2 align="center">Work and Life</h2>
