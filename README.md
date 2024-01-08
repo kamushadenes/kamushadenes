@@ -25,6 +25,11 @@ Thank you for stopping by, and I look forward to connecting with you!
 
 <h2 align="center">Noteworthy Public Projects</h2>
 
+[![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=ffffff&label=SQmaiL)](https://github.com/papirocloud/sqmail)
+
+SQmaiL allows you to query your IMAP email server using SQL.
+
+
 [![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=ffffff&label=Chloe)](https://github.com/kamushadenes/chloe)
 
 Chloe is a powerful AI Assistant written in Go that leverages OpenAI technologies (ChatGPT, Whisper, and DALL-E) along with Google's Text-to-Speech engine to provide versatile and comprehensive assistance.
