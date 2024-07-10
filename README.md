@@ -1,8 +1,6 @@
 <h1 align="center">Henrique Espíndola</h1>
 <h3 align="center">Security Specialist and Entrepreneur</h3>
 
-<h4 align="center">Co-Founder and CTO @ Stellar Entropy</h4>
-
 <h5 align="center">Leadership | Security | DevOps | Programming | Networking | Cloud | Crypto</h5>
 <h5 align="center">https://blog.hadenes.io</h5>
 
