@@ -169,14 +169,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="143.1392269530316" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="143.1392269530316" y="0" width="104.77055666419541" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="247.909783617227" y="0" width="55.35046971408119" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="303.26025333130815" y="0" width="53.222181953615575" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="356.4824352849238" y="0" width="23.14046007467905" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="379.6228953596028" y="0" width="15.78345581840429" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="395.40635117800707" y="0" width="12.34014908741479" height="8" fill="#0298c3"/>
-                    <rect mask="url(#languages-bar)" x="407.7465002654219" y="0" width="52.253499734578085" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="142.99064100830742" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="142.99064100830742" y="0" width="104.66179939008818" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="247.65244039839558" y="0" width="55.2930130545165" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="302.9454534529121" y="0" width="53.166934567177925" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="356.11238802009" y="0" width="23.116439076419248" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="379.2288270965093" y="0" width="16.236052899084132" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="395.46487999559344" y="0" width="12.327339372361681" height="8" fill="#0298c3"/>
+                    <rect mask="url(#languages-bar)" x="407.7922193679551" y="0" width="52.20778063204491" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -413,7 +413,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 143k out of 143m users</span>
+                                    <span class="gh">ranked 143k out of 142m users</span>
                                 </div>
                                 <div class="text">Published 117 public repositories</div>
                             </div>
@@ -483,7 +483,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 22.1k out of 216m repositories</span>
+                                    <span class="gh">ranked 22.1k out of 219m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 2228 stars</div>
                             </div>
@@ -535,7 +535,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 53k out of 143m users</span>
+                                    <span class="gh">ranked 53k out of 142m users</span>
                                 </div>
                                 <div class="text">Followed by 192 users</div>
                             </div>
@@ -653,7 +653,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 848k out of 216m repositories</span>
+                                    <span class="gh">ranked 848k out of 219m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 14 times</div>
                             </div>
@@ -879,7 +879,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 Aug 2024, 15:14:20 (timezone America/Sao_Paulo) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 29 Aug 2024, 16:13:28 (timezone America/Sao_Paulo) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
