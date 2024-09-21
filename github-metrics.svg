@@ -19,7 +19,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            10714 Commits
+                            10722 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -169,14 +169,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="138.52928506144593" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="138.52928506144593" y="0" width="101.3963161540835" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="239.92560121552944" y="0" width="54.81775790705392" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="294.74335912258334" y="0" width="51.50810838082708" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="346.2514675034104" y="0" width="22.395198425866095" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="368.64666592927654" y="0" width="18.849894533804488" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="387.49656046308104" y="0" width="11.942722250359477" height="8" fill="#0298c3"/>
-                    <rect mask="url(#languages-bar)" x="399.4392827134405" y="0" width="60.56071728655951" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="138.52263218175017" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="138.52263218175017" y="0" width="101.39144658810929" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="239.9140787698595" y="0" width="54.81512527996437" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="294.72920404982386" y="0" width="51.5056346999136" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="346.23483874973743" y="0" width="22.39412289471884" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="368.6289616444563" y="0" width="18.871080801950885" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="387.5000424464072" y="0" width="11.942148700193991" height="8" fill="#0298c3"/>
+                    <rect mask="url(#languages-bar)" x="399.44219114660115" y="0" width="60.55780885339884" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -535,7 +535,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 52.9k out of 144m users</span>
+                                    <span class="gh">ranked 53k out of 144m users</span>
                                 </div>
                                 <div class="text">Followed by 194 users</div>
                             </div>
@@ -879,7 +879,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Sept 2024, 20:13:14 (timezone America/Sao_Paulo) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 20 Sept 2024, 21:30:17 (timezone America/Sao_Paulo) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
