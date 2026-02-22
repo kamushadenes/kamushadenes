@@ -63,4 +63,14 @@ Script suite to parse financial transactions from brazilian bank and benefit acc
 
 <h2 align="center">Stats</h2>
 
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=kamushadenes&show_icons=true&include_all_commits=true&theme=transparent" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kamushadenes&layout=compact&hide=html,css&langs_count=8&theme=transparent" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=kamushadenes&theme=transparent" alt="GitHub Streak" />
+</p>
