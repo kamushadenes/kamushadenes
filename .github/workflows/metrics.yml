@@ -6,9 +6,13 @@ on:
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["master", "main"]}
+concurrency:
+  group: metrics
+  cancel-in-progress: true
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
     permissions:
       contents: write
     steps:
